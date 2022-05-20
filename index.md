@@ -281,7 +281,7 @@
 
 
 
-   ![WAeris4A](/Image/Wind-Spirit/WAeris4A)
+   ![WAeris4A](/Image/Wind-Spirit/WAeris4A.png)
 
    携带Aeris4A核动力改进型太空飞机
 
