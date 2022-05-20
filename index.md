@@ -260,28 +260,28 @@
 
 6. **风灵号轨道器**(一艘我在[坎巴拉太空计划(KSP)](https://baike.baidu.com/item/%E5%9D%8E%E5%B7%B4%E6%8B%89%E5%A4%AA%E7%A9%BA%E8%AE%A1%E5%88%92/7596160?fr=aladdin)中设计的有趣的飞船，可以通过大气制动节省燃料)
 
-   ![Launch](https://user-images.githubusercontent.com/105597219/168938715-beaaac80-a49b-4988-be97-5e837e5c9e00.png)
+   ![Launch](/Image/Wind-Spirit/Launch.png)
 
    发射载具
 
    
 
 
-   ![KerbinFlyby](https://user-images.githubusercontent.com/105597219/168938607-e05444d6-56ef-411b-8b29-c5c186d1ff88.png)
+   ![KerbinFlyby](/Image/Wind-Spirit/KerbinFlyby.png)
 
    飞跃Kerbin
 
 
 
 
-![Aerobraking](https://user-images.githubusercontent.com/105597219/168938634-a3b8e193-3e6e-4f0d-b7e3-3e7f42bac125.png)
+![Aerobraking](/Image/Wind-Spirit/Aerobraking.png)
 
    大气制动
 
 
 
 
-   ![WAeris4A](https://user-images.githubusercontent.com/105597219/168938662-bea5cbe1-6ced-4c99-b483-52dda6d84be8.png)
+   ![WAeris4A](/Image/Wind-Spirit/WAeris4A)
 
    携带Aeris4A核动力改进型太空飞机
 
