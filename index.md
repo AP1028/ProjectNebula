@@ -6,7 +6,7 @@
 
 如果你有好的点子、发现了实锤的科学性错误或是找到需要改进的地方，请去新建一个Issue或Pull request，我会酌情进行修正、添加或是深入研究。
 
-如果你没有Github账号，请直接向tian_yi_xia@qq.com发送信息。
+如果你没有GitHub账号，请直接向tian_yi_xia@qq.com发送信息。
 
 ## 1. 质能转化方式
 
