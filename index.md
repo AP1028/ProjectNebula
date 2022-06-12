@@ -4,7 +4,7 @@
 
 这个计划旨在记录奇异发明和想法，然而它的内容*似乎*不那么接近生活，并且有极高的理论物理和工程学浓度。
 
-如果你有好的点子、发现了实锤的科学性错误或是找到需要改进的地方，请去新建一个Issue或Pull request，我会酌情进行修正、添加或是深入研究。
+如果你有好的点子、发现了实锤的科学性错误或是找到需要改进的地方，请去新建一个[Issue](https://github.com/AP1028/ProjectNebula/issues/new/choose)或[Pull request](https://github.com/AP1028/ProjectNebula/compare)，我会酌情进行修正、添加或是深入研究。
 
 如果你没有GitHub账号，请直接向[tian_yi_xia@qq.com](mailto:tian_yi_xia@qq.com)发送信息。
 
