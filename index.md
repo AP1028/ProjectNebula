@@ -204,10 +204,10 @@
 
 1. [**“光子朋克”设想**](#“光子朋克”设想)(将文明的能源运作方式从电转为光子，从而避免光能和电能的反复转换，提升能源利用效率)
 2. **太阳帆**(戴森云部件，用于操纵太阳辐射)
-3. <span id="戴森云">**戴森云**</span>(由众多太阳帆在多条环日轨道上运行构成的戴森球)([百度百科](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83/8533395?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Dyson_bubble))
+3. <span id="戴森云">**戴森云**</span>(由众多太阳帆在多条环日轨道上运行构成的戴森球)([百度百科](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83/8533395?fr=aladdin)\|[Wiki Mirror](https://ap1028.github.io/wiki-mirror/Dyson_sphere.html#%E6%88%B4%E6%A3%AE%E4%BA%91)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Dyson_bubble))
 4. [**梯级核能反应堆**](#梯级核能反应堆)
 5. [**梯级原子合成器**](#梯级原子合成器)
-6. <span id="戴森环">**戴森环**</span>(由固体圆环在太阳轨道上运行构成的戴森球)([百度百科](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83/8533395?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Dyson_swarm))
+6. <span id="戴森环">**戴森环**</span>(由固体圆环在太阳轨道上运行构成的戴森球)([百度百科](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83/8533395?fr=aladdin)\|[Wiki Mirror](https://ap1028.github.io/wiki-mirror/Dyson_sphere.html#%E6%88%B4%E6%A3%AE%E4%BA%91)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Dyson_swarm))
 7. <span id="尼科尔-戴森光束">**尼科尔-戴森光束(Nicoll-Dyson Laser)**</span>(恒星级功率激光器，用于摧毁行星，主动式恒星系探测或是星际远程通讯)
 8. **反物质制造设施**(将戴森球传输的能量转为反物质储存)
 9. [**反物质推进器**](#反物质推进器)
@@ -232,7 +232,7 @@
     1. **西卡多夫推进器(Shkadov Thruster)**(一个巨大的抛面反射镜，通过反射光子获得光压，通过引力协同推动恒星前进，工程难度类似于戴森壳)([Wikipedia](https://en.wikipedia.org/wiki/Stellar_engine#Class_A_(Shkadov_thruster)))
     2. <span id="卡普兰推进器">**卡普兰推进器(Caplan Thruster)**</span>(一个装有能量反应装置和两台巴萨德冲压发动机，借助戴森球的能量获得恒星物质，将物质从上下两个方向喷出射向恒星和星际空间，从而推动恒星前进)([论文](https://sites.google.com/view/m-caplan-stellar-engines/startseite)\|[Wikipedia](https://en.wikipedia.org/wiki/Stellar_engine#Caplan_thruster))
 21. <span id="恒星采集器">**恒星采集器**</span>([卡普兰推进器](#卡普兰推进器)的衍生技术，将吸收的恒星物质进行利用而非直接射入星际空间)([Wikipedia](https://en.wikipedia.org/wiki/Star_lifting))
-22. <span id="戴森壳">**戴森壳**</span>(完全包裹恒星并完全获取黑洞能量的巨型结构)([百度百科](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83/8533395?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Dyson_shell))
+22. <span id="戴森壳">**戴森壳**</span>(完全包裹恒星并完全获取黑洞能量的巨型结构)([百度百科](https://baike.baidu.com/item/%E6%88%B4%E6%A3%AE%E7%90%83/8533395?fr=aladdin)\|[Wiki Mirror](https://ap1028.github.io/wiki-mirror/Dyson_sphere.html#%E6%88%B4%E6%A3%AE%E5%A3%B3)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Dyson_shell))
 23. <span id="戴森壳表面阵列区划开发">**戴森壳表面阵列区划开发**</span>(在戴森球表面安装的大功率结构)
     1. **反物质合成阵列**
     2. **物质采集区划**
