@@ -1,6 +1,6 @@
 # 星云计划 | Project Nebula
 
-网站：[星云计划 Project Nebula](https://ap1028.github.io/ProjectNebula)
+网站：[星云计划 | Project Nebula](https://ap1028.github.io/ProjectNebula)
 
 这个计划旨在记录奇异发明和想法，然而它的内容*似乎*不那么接近生活，并且有极高的理论物理和工程学浓度。
 
