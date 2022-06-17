@@ -49,26 +49,30 @@
 
 1. <span id="化学火箭">**化学火箭**</span>(低比冲大推力的化学动力火箭，适用于飞船进入轨道的发射阶段，*500s<I<sub>sp</sub><700s*)
 2. <span id="核能航空发动机">**核能航空发动机**</span>(利用裂变反应堆加热空气使之膨胀产生推力)([百度百科](https://baike.baidu.com/item/%E6%A0%B8%E8%83%BD%E8%88%AA%E7%A9%BA%E5%8F%91%E5%8A%A8%E6%9C%BA/22108579?fr=aladdin))
-3. <span id="NTR">**核热火箭(NTR)**</span>(NERVA, Lightbulb, 利用裂变反应堆加热工质使之膨胀产生推力,*800s<I<sub>sp</sub><0.04c/g*)([Wikipedia](#https://en.wikipedia.org/wiki/Nuclear_thermal_rocket))
-   1. 固态核心(NERVA)
-   2. 脉冲核热火箭
-   3. 液态核心
-   4. 气态核心(Lightbulb)
-4. 核盐水火箭(NSWR，I<sub>sp</sub>=0.4c)
+3. <span id="NTR">**核热火箭(NTR)**</span>(利用裂变反应堆加热工质使之膨胀产生推力)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/engineintro.php)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket))
+   1. **固态核心**(裂变物质维持固态，效率大概为化学火箭的2-4倍，NERVA，*800s(H<sub>2</sub>)<I<sub>sp</sub><1600s(H<sub>1</sub>)*)([百度百科](https://baike.baidu.com/item/NERVA/4210615?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#ntrsolidcore)\|[Wikipedia]())
+   2. **脉冲核热火箭**(通过脉冲获得比固态核心更高的效率，[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket#Pulsed_nuclear_thermal_rocket))
+   3. **液态核心**(裂变物质处于液态，效率高于固态核心，*1300s<I<sub>sp</sub><1500s*)([Wikipedia](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket#Liquid_core))
+   4. **气态核心**(裂变物质以等离子态形式加热工质)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#basicgcr)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_thermal_rocket#Liquid_core))
+      1. **开式循环(Open Cycle)**(比冲高，但裂变物质混入喷流，喷流带放射性，*3568s<I<sub>sp</sub><9990s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#ntrgasopen))
+      2. **闭式循环(Closed Cycle)**(裂变物质被约束，喷流带很少放射性，但比冲只有开式循环的一半，Lightbulb，*2080s<I<sub>sp</sub><3140s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#ntrgasclosed))
+4. **核盐水火箭(NSWR)**(用溶解于水中的核燃料进行推进，相当于一个持续反应的猎户座核脉冲推进器，*I<sub>sp</sub>=0.016c/g*)([百度百科](https://baike.baidu.com/item/%E6%A0%B8%E7%9B%90%E6%B0%B4%E7%81%AB%E7%AE%AD/22755969?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#nswr)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_salt-water_rocket))
 5. <span id="SABRE">**协同吸气式火箭发动机(SABRE)**</span>(一种可以在大气中获取氧气作为氧化剂的火箭发动机，可以减少太空飞机携带的氧化剂，从而使其实现单级入轨)([百度百科](https://baike.baidu.com/item/佩刀吸气式火箭发动机/15639055?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/SABRE_(rocket_engine))\|[Reaction Engines 官网](https://www.reactionengines.co.uk/sabre))
 6. <span id="协同吸气式核热火箭发动机">**协同吸气式核热火箭发动机**</span>(把[核能航空发电机](#核能航空发动机)和[NTR](#NTR)以[SABRE](#SABRE)的方式集成，从而制成更加高效的核动力SABRE)
 7. <span id="超导电磁流体推进器">**超导电磁流体推进器**</span>(在导电流体中通过安培力作用产生推力)
 8. <span id="蒸汽-流体混合推进器">**蒸汽-流体混合推进器**</span>(类似喷气发动机，通过加热流体至沸腾，产生大量气体，对外膨胀产生推力)
 9. <span id="无扇叶电等离子体航空发动机">**无扇叶电等离子体航空发动机**</span>(用强电场电离并推动空气，通过静态压气机压缩空气，并用大功率微波加热空气至等离子态，最后在电磁线圈的引导下喷出产生推力)
-10. **非常规高效化学推进器**(临界态金属氢/自由基结合/亚稳态原子推进器，*1700s<I<sub>sp</sub><4300s*)
+10. **非常规高效化学推进器**(临界态金属氢/自由基结合/亚稳态原子推进器，*1700s<I<sub>sp</sub><4300s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist.php#atomichydrogen))
 11. <span id="离子推进器">**离子推进器**</span>(低推力高比冲推进器，包括胶质发动机、霍尔效应推进器和VASIMR等推进器，*1000s<I<sub>sp</sub><30000s*)([百度百科](https://baike.baidu.com/item/%E7%A6%BB%E5%AD%90%E6%8E%A8%E8%BF%9B%E5%99%A8/4751870?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/Ion_thruster))
 12. <span id="协同吸气式可变比冲电磁等离子体火箭推进器">**协同吸气式可变比冲电磁等离子体火箭推进器**</span>(把[无扇叶电等离子体航空发动机](#无扇叶电等离子体航空发动机)和[VASIMR](#离子推进器)以[SABRE](#SABRE)的方式集成，从而制成更加高效的电等离子体SABRE)
-13. <span id="核脉冲推进器">**核脉冲推进器**</span>(猎户座计划，*3354s<I<sub>sp</sub><12000s*)
-14. <span id="核聚变推进器">**核聚变推进器**</span>(*50000s<I<sub>sp</sub><0.14c/g*）
-    1. 磁约束核聚变
-    2. Z箍缩
-    3. 惯性约束核聚变(代达罗斯计划，*I<sub>sp</sub>=0.035c/g*)
-    4. **磁-惯性约束核聚变**(结合了磁约束和惯性核聚变的推进器)
+13. <span id="核脉冲推进器">**核脉冲推进器**</span>(用原子弹或核弹的爆炸提供脉冲推力)([Wikipedia](https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion))
+    1. **猎户座计划(Orion)**(在船尾投下核弹，经缓冲后脉冲推进，*4383s(裂变)<I<sub>sp</sub><12000s(聚变)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#boomboom)\|[Wikipedia](https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)))
+    2. **美杜莎(Medusa)**(在船头引爆核弹，用一个巨大的伞承受核弹爆炸的能量，*49000s<I<sub>sp</sub><98000s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#medusa)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion#MEDUSA))
+14. <span id="核聚变推进器">**核聚变推进器**</span>(通过聚变反应等离子体喷流提供推力）
+    1. **磁约束核聚变**(*6809s(D-T Tokamak)<I<sub>sp</sub><199796s(线性聚变)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#toroidalfusion))
+    2. **Z箍缩**(*132500s<I<sub>sp</sub><0.012c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#fszpinch))
+    3. **惯性约束核聚变**(用激光和弹丸自身惯性的推进器，代达罗斯计划，*17329s(VISTA)<I<sub>sp</sub><0.035c/g(P-P Fusion)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#icfusion))
+    4. **磁-惯性约束核聚变**(结合了磁约束和惯性核聚变的推进器，*I<sub>sp-min</sub>=5000s, 50000s<I<sub>sp</sub><100000s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#mif))
     5. **μ子催化聚变推进器**(在热核聚变小型化前用于小型飞船的聚变推进器)
     6. **质子聚变/重核聚变/梯级核能推进器**(非常规核聚变推进器，*I<sub>sp</sub><0.14c/g*)
 15. **外燃式电磁等离子体推进器构型**(完全运用电磁场在飞船外对燃料和反应进行操纵，将反应过程完全置于飞船外，通过喷流等离子体与电磁场的作用推动飞船前进。可以避开材料限制，获得极大的功率。这种构型的推进器在运行时看上去就像魔法一样。)
