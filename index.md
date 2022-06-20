@@ -203,7 +203,7 @@
 50. <span id="环赤道电磁轨道弹射器">**环赤道电磁轨道弹射器/大规模行星际物质运输系统**</span>(通过巨大的电磁轨道弹射器和巨大的飞船在行星间运输巨量物质用于建造和利用，并通过线圈的加速和减速循环利用能量，获得和[天钩](#天钩)类似的能量回收能力，从而不用使用火箭推进器进行运输)
 51. **“行星工程”**(完全城市化并改造地球陆地，海洋，和内部)
 52. <span id="行星发动机">**行星发动机**</span>(用于推动行星大小固态物质的推进器，能量来源不限，可使用任何质能转化方式)
-53. **气态行星人造殖民地**(*与[气态行星太空城](#气态行星太空城)相似，气态行星大气中建造的大规模人造居住结构)([Wiki Mirror](https://ap1028.github.io/wiki-mirror/Dyson_sphere.html#%E6%B3%A1%E4%B8%96%E7%95%8C)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Bubbleworld)|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/spacecolony.php#asteroidbubble))
+53. **气态行星人造殖民地**(*与[气态行星太空城](#气态行星太空城)相似，气态行星大气中建造的大规模人造居住结构)([Wiki Mirror](https://ap1028.github.io/wiki-mirror/Dyson_sphere.html#%E6%B3%A1%E4%B8%96%E7%95%8C)\|[Wikipedia](https://en.wikipedia.org/wiki/Dyson_sphere#Bubbleworld)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/spacecolony.php#asteroidbubble))
 54. <span id="气态行星推进器">**气态行星推进器**</span>([行星发动机](#行星发动机)的衍生技术，原理类似[卡普兰推进器](#卡普兰推进器)，通过直接从气态行星中吸收物质并经过反应产生能量，随后将物质从上下两侧喷出，从而推动气态行星)
 55. <span id="行星级飞船">**行星级飞船**</span>
     1. <span id="行星拖船">**行星拖船**</span>
