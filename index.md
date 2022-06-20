@@ -461,32 +461,41 @@
 
 7. **风灵号轨道器**(一艘我在[坎巴拉太空计划(KSP)](https://baike.baidu.com/item/%E5%9D%8E%E5%B7%B4%E6%8B%89%E5%A4%AA%E7%A9%BA%E8%AE%A1%E5%88%92/7596160?fr=aladdin)中设计的有趣的飞船，可以通过大气制动节省燃料)
 
-   ![Launch](./Image/Wind-Spirit/Launch.png)
-
-   发射载具
-
+   <center>
+    <img style=" 缩放比例; border-radius: 0.3125em;
+       box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="./Image/Wind-Spirit/Launch.png">
+       <br>
+       <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block; color: #999; padding: 2px;">发射载具</div>
+   </center>
    
+   <center>
+       <img style=" 缩放比例; border-radius: 0.3125em;
+       box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+       src="./Image/Wind-Spirit/KerbinFlyby.png">
+       <br>
+       <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+            display: inline-block; color: #999; padding: 2px;">飞跃Kerbin</div>
+   </center>
 
+<center>
+    <img style=" 缩放比例; border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="./Image/Wind-Spirit/Aerobraking.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+         display: inline-block; color: #999; padding: 2px;">大气制动</div>
+</center>
 
-   ![KerbinFlyby](./Image/Wind-Spirit/KerbinFlyby.png)
-
-   飞跃Kerbin
-
-
-
-
-![Aerobraking](./Image/Wind-Spirit/Aerobraking.png)
-
-   大气制动
-
-
-
-
-   ![WAeris4A](./Image/Wind-Spirit/WAeris4A.png)
-
-   携带Aeris4A核动力改进型太空飞机
-
-
+   <center>
+    <img style=" 缩放比例; border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="./Image/Wind-Spirit/WAeris4A.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+         display: inline-block; color: #999; padding: 2px;">携带Aeris4A核动力改进型太空飞机</div>
+</center>
 
 
 7. **土星滑翔机**(一种假想的可以稳定在气态行星低层大气低速巡航的太空飞机，可以帮助拍摄土星夜间极其壮观的图片)
