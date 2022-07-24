@@ -4,13 +4,15 @@
 
 ## 概要
 
-这个计划旨在记录奇异发明和想法，然而它的内容*似乎*不那么接近生活，并且有极高的理论物理和工程学浓度。
+这个计划旨在记录关于科技或科幻的奇异发明和想法，然而它的内容*似乎*不那么接近生活，并且有极高的理论物理和工程学浓度。
+
+所有标有外链**"(...\|...\|...)"**的条目均为支持思路完整性的知识记录，而没有外链的均为我自己想象出的事物。
 
 目前，本站正完全与[星环计划](https://github.com/AP1028/Ring-of-Stars)完全同步。待其停止维护后，本站将会在目前基础上迅速扩展，包括对每个条目的详细解释。
 
 如果你需要使用此网站的原创概念，请标明出处。本项目使用[Creative Commons Zero v1.0 Universal License](https://github.com/AP1028/ProjectNebula/blob/gh-pages/LICENSE).
 
-如果你有好的点子、发现了实锤的科学性错误或是找到需要改进的地方，请去新建一个[Issue](https://github.com/AP1028/ProjectNebula/issues/new/choose)或[Pull request](https://github.com/AP1028/ProjectNebula/compare)，我会酌情进行修正、添加或是深入研究。
+我暂时没有精力保证所有条目的科学性。如果你有好的点子、发现了实锤的科学性错误或是找到需要改进的地方，请去新建一个[Issue](https://github.com/AP1028/ProjectNebula/issues/new/choose)或[Pull request](https://github.com/AP1028/ProjectNebula/compare)，我会酌情进行修正、添加或是深入研究。
 
 如果你没有GitHub账号，请直接向[tian_yi_xia@qq.com](mailto:tian_yi_xia@qq.com)发送信息。
 
@@ -45,7 +47,7 @@
 
 我并不喜欢那些“曲速引擎”“虫洞”或是“EmDrive”之类的东西。这些东西要么[在逻辑上等同于时间机器](#relativityLimit)，要么干脆直接违反了动量守恒。如果你想看[魔法](http://www.projectrho.com/public_html/rocket/prelimnotes.php#handwavium)，那么抱歉，你来错地方了。
 
-以下各条目的“*I<sub>sp</sub>*”代表比冲(Specific Impulse)，是推进器效率的量度，在大小上等于推进器喷出气体的速度除以重力加速度(即I<sub>sp</sub>=v<sub>e</sub>/g)。比冲越高，推进器的燃料利用效率越高。然而在推进器输出功率相同下，比冲越高，推力越小。这可以用来解释为什么离子推进器较化学火箭效率极高，推力却小得离谱。
+以下各条目的“*I<sub>sp</sub>*”代表比冲(Specific Impulse)，即消耗单位重量(地球上所受重力)推进剂所提供的冲量，是推进器效率的量度，在大小上等于推进器喷出气体的速度除以重力加速度(即I<sub>sp</sub>=v<sub>e</sub>/g)。比冲越高，推进器的燃料利用效率越高。然而在推进器输出功率相同下，比冲越高，推力越小。这可以用来解释为什么离子推进器较化学火箭效率极高，推力却小得离谱。
 
 由于I<sub>sp</sub>不可能大于c/g，这告诉了我们一件事：在不使用[巴萨德冲压发动机](#巴萨德冲压发动机)的情况下，为了将飞船加速到0.9c再减速至零，出发前飞船中燃料占飞船总质量不可能小于95%。这个极限无法通过推进器的科技进步所打破。(很残酷，不是吗？)
 
