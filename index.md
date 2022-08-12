@@ -74,7 +74,7 @@
 9. <span id="核脉冲推进器">**核脉冲推进器**</span>(用原子弹或核弹的爆炸提供脉冲推力)([Wikipedia](https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion))
    1. **猎户座计划(Orion)**(在船尾投下核弹，经缓冲后脉冲推进，*4383s(裂变)<I<sub>sp</sub><12000s(聚变)*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#boomboom)\|[Wikipedia](https://en.wikipedia.org/wiki/Project_Orion_(nuclear_propulsion)))
    2. **美杜莎(Medusa)**(在船头引爆核弹，用一个巨大的伞承受核弹爆炸的能量，*49000s<I<sub>sp</sub><98000s*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#medusa)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_pulse_propulsion#MEDUSA))
-10. <span id="协同吸气式核热火箭发动机">**协同吸气式核热火箭发动机**</span>(把[核能航空发电机](#核能航空发动机)和[NTR](#NTR)以[SABRE](#SABRE)的方式集成，从而制成更加高效的核动力SABRE)
+10. <span id="协同吸气式核热火箭发动机">**[协同吸气式核热火箭发动机](./Documentation/Thruster#SABRE)**</span>(把[核能航空发电机](#核能航空发动机)和[NTR](#NTR)以[SABRE](#SABRE)的方式集成，从而制成更加高效的核动力SABRE)
 11. **核盐水火箭(NSWR)**(用溶解于水中的核燃料进行推进，运行方式介于核反应堆和核弹之间，相当于一个持续反应的猎户座核脉冲推进器，*6728s<I<sub>sp</sub><0.016c/g*)([百度百科](https://baike.baidu.com/item/%E6%A0%B8%E7%9B%90%E6%B0%B4%E7%81%AB%E7%AE%AD/22755969?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#nswr)\|[Wikipedia](https://en.wikipedia.org/wiki/Nuclear_salt-water_rocket))
 12. **核裂变碎片火箭发动机(FFRE)**(运用核反应产物碎片作为喷流，完全无需外带工质，*I<sub>sp</sub><0.03c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist2.php#fissionfragment)\|[Wikipedia](https://en.wikipedia.org/wiki/Fission-fragment_rocket))
 13. <span id="无扇叶电等离子体航空发动机">**无扇叶电等离子体航空发动机**</span>(用强电场电离并推动空气，通过静态压气机压缩空气，并用大功率微波加热空气至等离子态，最后在电磁线圈的引导下喷出产生推力)
