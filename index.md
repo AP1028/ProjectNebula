@@ -39,7 +39,7 @@
 7. <span id="黑洞引力势能">**黑洞引力势能**</span>(通过物质在黑洞引力场中落入黑洞的过程汲取引力势能，*ε<42%*)([视频解释](https://www.bilibili.com/video/BV1Qs411L7Qk?share_source=copy_web))
 8. <span id="霍金辐射能量引擎">**霍金辐射能量引擎**</span>(对霍金辐射电磁波的能量利用，*ε<90%*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/power.php#pholes))
 9. <span id="正反物质湮灭">**正反物质湮灭**</span>(一种极其高效的储能方式。注意：反物质[不是能源](http://www.projectrho.com/public_html/rocket/antimatterfuel.php#notpower)，因为自然界不存在反物质矿藏；正反物质湮灭[并不能保证100%质能转化效率](http://www.projectrho.com/public_html/rocket/antimatterfuel.php#id--Antimatter_Reaction)，*ε<100%*)
-10. <span id="理想质能转化引擎">**理想质能转化引擎**</span>(一个假想的贴近理论极限的质能转化方式，*ε=100%*)
+10. <span id="理想质能转化引擎">**理想质能转化引擎**</span>(一个假想的贴近理论极限的质能转化方式，*ε=100%*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/power.php#massconverters))
 
 ## 2. [航空/宇航推进](./Documentation/Thruster)
 

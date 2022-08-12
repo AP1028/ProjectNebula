@@ -20,7 +20,7 @@
 | 比冲(海平面)     | 3,600 s (35 km/s)                                            |
 | 当前情况         | 测试中                                                       |
 | 上游地址         | [Reaction Engines 官网](https://www.reactionengines.co.uk/sabre) |
-| See also         | [百度百科](https://baike.baidu.com/item/佩刀吸气式火箭发动机/15639055?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/SABRE_(rocket_engine)) |
+| See also         | [百度百科](https://baike.baidu.com/item/佩刀吸气式火箭发动机/15639055?fr=aladdin)\|[Wikipedia](https://en.wikipedia.org/wiki/SABRE_(rocket_engine))\|视频：[【航天前沿｜英国云霄塔空天飞机】]( https://www.bilibili.com/video/BV1bs41117m1?share_source=copy_web&vd_source=11282ef3a1c01db366957466675641af) |
 
 **SABRE**是英国*反应引擎公司(Reaction Engines)*正在研发的一款发动机，用于[云霄塔太空飞机(Skylon)](https://baike.baidu.com/item/%E4%BA%91%E9%9C%84%E5%A1%94/16402021?fr=aladdin)。它可以在大气层吸入空气作为氧化剂加速至5马赫，然后切换至火箭模式加速至25马赫进入近地轨道。
 
