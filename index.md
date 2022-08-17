@@ -41,7 +41,7 @@
 9. <span id="正反物质湮灭">**正反物质湮灭**</span>(一种极其高效的储能方式。注意：反物质[不是能源](http://www.projectrho.com/public_html/rocket/antimatterfuel.php#notpower)，因为自然界不存在反物质矿藏；正反物质湮灭[并不能保证100%质能转化效率](http://www.projectrho.com/public_html/rocket/antimatterfuel.php#id--Antimatter_Reaction)，*ε<100%*)
 10. <span id="理想质能转化引擎">**理想质能转化引擎**</span>(一个假想的贴近理论极限的质能转化方式，*ε=100%*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/power.php#massconverters))
 
-## 2. [航空/宇航推进](./Documentation/Thruster)
+## 2. [推进装置](./Documentation/Thruster)
 
 这里记录了一些从各个地方搜集和我创造的推进器概念。为了使航天器能拥有足够的效率和适当的推力，需要多样的推进器满足特定的需求。
 
@@ -96,7 +96,8 @@
 19. <span id="反物质推进器">**反物质推进器**</span>(利用正反物质湮灭的推进方式)([百度百科](https://baike.baidu.com/item/%E5%8F%8D%E7%89%A9%E8%B4%A8%E6%8E%A8%E8%BF%9B%E5%99%A8/2623996?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#antirocket)\|[Wikipedia](https://en.wikipedia.org/wiki/Antimatter_rocket))
     1. **π介子工质推进型(粒子束核心，Beam Core)**(*I<sub>sp</sub>=0.3c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#ambeam)\|[Wikipedia](https://en.wikipedia.org/wiki/Antimatter_rocket#Pure_antimatter_rocket:_direct_use_of_reaction_products))
     3. **纯光子推进型(激光核心，Laser Core)**(*I<sub>sp</sub>=1c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#amlaser))
-20. <span id="纯质能转化光子火箭推进器">**纯质能转化光子火箭推进器**</span>(*I<sub>sp</sub>=1c/g*)
+20. <span id="光子推进器">**光子推进器**</span>(*I<sub>sp</sub>=1c/g*)
+    1. <span id="纯质能转化光子火箭推进器">**纯质能转化光子火箭推进器**</span>
 21. <span id="光帆">**光帆**</span>(反射太阳光子，依赖光压产生推力)([百度百科](https://baike.baidu.com/item/%E5%85%89%E5%B8%86%E6%8A%80%E6%9C%AF/19583150?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist.php#photonsail)\|[Wikipedia](https://en.wikipedia.org/wiki/Solar_sail))
 22. <span id="电帆">**电帆(E-sail, Electric solar wind sail)**</span>(通过电场偏转太阳风质子获得动量)([百度百科](https://baike.baidu.com/item/%E7%94%B5%E5%B8%86/15721000?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist.php#esail)\|[Wikipedia](https://en.wikipedia.org/wiki/Electric_sail))
 23. <span id="巴萨德冲压发动机">**巴萨德冲压发动机**</span>(通过超导线圈产生巨大的磁场并用激光束等离子化星际物质，在航行中获取星际物质作为燃料，实现持续不断的加速，从而获得接近光速的飞行速度)([百度百科](https://baike.baidu.com/item/%E6%98%9F%E9%99%85%E5%86%B2%E5%8E%8B%E5%8F%91%E5%8A%A8%E6%9C%BA/1367926?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/slowerlight3.php#bussard)\|[Wikipedia](https://en.wikipedia.org/wiki/Bussard_ramjet))
@@ -139,7 +140,7 @@
 6. **光子计算机**(由集成光路，激光器，光学反射镜、透镜、滤波器，光子定向耦合器等元件构成)
 7. **“光池”**(将光束困在环状光缆中，从而储存光能)
 
-以上科技充分论证了“光子朋克”的可行性。
+以上科技充分论证了“光子朋克”的设定完整性。
 
 然而在现实中，由于[光学物理定律和热力学第二定律的限制](https://what-if.xkcd.com/145)，其可行性存疑。
 
