@@ -97,7 +97,7 @@
     1. **π介子工质推进型(粒子束核心，Beam Core)**(*I<sub>sp</sub>=0.3c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#ambeam)\|[Wikipedia](https://en.wikipedia.org/wiki/Antimatter_rocket#Pure_antimatter_rocket:_direct_use_of_reaction_products))
     3. **纯光子推进型(激光核心，Laser Core)**(*I<sub>sp</sub>=1c/g*)([Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist3.php#amlaser))
 20. <span id="光子推进器">**光子推进器**</span>(*I<sub>sp</sub>=1c/g*)
-    1. <span id="纯质能转化光子火箭推进器">**纯质能转化光子火箭推进器**</span>
+    1. <span id="纯质能转化光子火箭推进器">**纯质能转化光子火箭推进器**</span>(*加速器+能量)
 21. <span id="光帆">**光帆**</span>(反射太阳光子，依赖光压产生推力)([百度百科](https://baike.baidu.com/item/%E5%85%89%E5%B8%86%E6%8A%80%E6%9C%AF/19583150?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist.php#photonsail)\|[Wikipedia](https://en.wikipedia.org/wiki/Solar_sail))
 22. <span id="电帆">**电帆(E-sail, Electric solar wind sail)**</span>(通过电场偏转太阳风质子获得动量)([百度百科](https://baike.baidu.com/item/%E7%94%B5%E5%B8%86/15721000?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/enginelist.php#esail)\|[Wikipedia](https://en.wikipedia.org/wiki/Electric_sail))
 23. <span id="巴萨德冲压发动机">**巴萨德冲压发动机**</span>(通过超导线圈产生巨大的磁场并用激光束等离子化星际物质，在航行中获取星际物质作为燃料，实现持续不断的加速，从而获得接近光速的飞行速度)([百度百科](https://baike.baidu.com/item/%E6%98%9F%E9%99%85%E5%86%B2%E5%8E%8B%E5%8F%91%E5%8A%A8%E6%9C%BA/1367926?fr=aladdin)\|[Atomic Rockets](http://www.projectrho.com/public_html/rocket/slowerlight3.php#bussard)\|[Wikipedia](https://en.wikipedia.org/wiki/Bussard_ramjet))
